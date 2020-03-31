@@ -1,0 +1,64 @@
+html{
+    margin: 0px;
+}
+
+
+body{
+    margin-left:5px;
+}
+
+.listdesign{
+    list-style-type: none;
+    margin-left: -10px;
+}
+.btnlist{
+    list-style-type: none;
+}
+.conlist{
+    list-style-type: none;
+}
+.imglist{
+    list-style-type: none;
+}
+.quicklist{
+
+    list-style-type: none;
+}
+.basiclist{
+
+    list-style-type: none;
+}
+.dolarlist{
+    list-style-type: none;
+}
+.packlist{
+    list-style-type: none;
+}
+.palist{
+    list-style-type: none;
+}
+.package-features{
+    list-style-type: none;
+}
+.awardlist{
+    list-style-type: none;
+}
+.belowlist{
+    list-style-type: none;
+}
+
+.belowlist2{
+    list-style-type: none;
+}
+.learnlist{
+    list-style-type: none;
+}
+.job-options{
+    list-style-type: none;
+}
+.footer-nav-list{
+    list-style-type: none;
+}
+.social-media-links{
+    list-style-type: none;
+}
